@@ -1,6 +1,6 @@
 import { IoIosNotifications } from "react-icons/io";
 import { Link } from "react-router-dom";
-import logo from '../assets/text-1721203624360-removebg-preview.png'
+import logo from '../assets/logo.png'
 import { CgMenuGridR } from "react-icons/cg";
 
 

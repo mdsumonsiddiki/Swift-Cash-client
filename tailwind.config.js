@@ -19,11 +19,9 @@ export default {
       error: '#FF4C4C',
       info: '#17A2B8',
       success: '#28A745',
-      textColor: '#4B4B4B',
     },
     fontFamily: {
-      sans: ['Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
+      poppins: '"Poppins", sans-serif'
     },
     extend: {},
   },

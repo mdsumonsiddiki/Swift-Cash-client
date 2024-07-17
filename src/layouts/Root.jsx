@@ -4,7 +4,7 @@ import Nav from "../shared/Nav";
 
 const Root = () => {
   return (
-    <div className="h-screen bg-gradient-to-b from-primary via-cyan-900 relative to-secondary">
+    <div className="h-screen bg-gradient-to-b font-poppins from-primary via-cyan-900 relative to-secondary">
       <div>
         <Header/>
       </div>
