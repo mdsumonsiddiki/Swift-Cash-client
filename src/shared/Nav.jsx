@@ -24,7 +24,7 @@ const Nav = () => {
     </>
     return (
         <div className="bg-darkShade shadow-2xl">
-            <div className="container py-5">
+            <div className="py-4">
                 {/* mobile menu  */}
                 <div>
                     <ul className="flex items-center justify-around">

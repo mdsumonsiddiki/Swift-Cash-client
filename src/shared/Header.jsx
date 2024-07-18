@@ -6,7 +6,7 @@ import { CgMenuGridR } from "react-icons/cg";
 
 const Header = () => {
     return (
-        <div className="flex bg-darkShade items-center justify-between px-2 py-4 shadow-2xl">
+        <div className="flex bg-darkShade  items-center justify-between px-2 py-4 shadow-2xl">
             <Link className="text-3xl text-white"><CgMenuGridR /></Link>
             <Link ><img className="h-8  mx-auto" src={logo} alt="" /></Link>
             <div className="relative">
